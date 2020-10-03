@@ -30,5 +30,4 @@ exports.help = {
 name: 'Komutunuzun Kullanım Anahtarı İsmi',
 description: 'Komutun Açıklaması',
 usage: 'Komutun Kullanım Şekli'
-}
-
+}//bu komutu kopyalayarak kendi komutlarınızı yapabilirsiniz
