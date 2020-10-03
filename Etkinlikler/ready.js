@@ -10,7 +10,6 @@ module.exports = client => {
   client.user.setStatus("dnd");
    var oyun = [
 
-        "m!yardım",
         "m!davet",
         "m!help",
         "m!invite",
